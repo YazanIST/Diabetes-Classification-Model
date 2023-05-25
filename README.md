@@ -1,1 +1,1 @@
-# Diabetes-Classification-Model
+# Diabetes Classification Model
